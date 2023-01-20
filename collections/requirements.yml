@@ -1,0 +1,4 @@
+collections:
+#  - name: https://github.com/ulrichmonji/ansible-collection-webapp/releases/download/1.0.0/ulrichmonji-webapp-1.0.0.tar.gz
+#  - name: https://github.com/ulrichmonji/ansible-collection-webapp/archive/refs/tags/1.0.0.tar.gz
+  - name: https://github.com/ulrichmonji/ansible-collection-webapp/releases/download/1.0.0/ulrichmonji-webapp-1.0.0.tar.gz
